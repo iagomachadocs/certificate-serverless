@@ -2,6 +2,9 @@
 
 > Aplicação serverless para a geração e validação de certificados.
 
+![GitHub file size in bytes](https://img.shields.io/github/size/iagomachadocs/certificate-serverless?style=flat-square)
+![GitHub language count](https://img.shields.io/github/languages/count/iagomachadocs/certificate-serverless?style=flat-square)
+
 ## 💻 Sobre
 
 Aplicação desenvolvida durante o Bootcamp Ignite, na trilha de Node.js. Nela são desenvolvidos dois endpoints, um capaz de gerar um certificado em PDF contendo as informações de um aluno e outro que permite verificar se um determinado certificado é válido. Seu desenvolvimento teve como objetivo o aprendizado sobre o modelo de arquitetura serverless e o seu deploy na AWS. 
