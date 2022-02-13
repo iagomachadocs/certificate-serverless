@@ -2,7 +2,6 @@
 
 > Aplicação serverless para a geração e validação de certificados.
 
-![GitHub file size in bytes](https://img.shields.io/github/size/iagomachadocs/certificate-serverless?style=flat-square)
 ![GitHub language count](https://img.shields.io/github/languages/count/iagomachadocs/certificate-serverless?style=flat-square)
 
 ## 💻 Sobre
