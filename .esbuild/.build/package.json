@@ -1,0 +1,11 @@
+{
+  "name": "certificate-serverless",
+  "version": "1.0.0",
+  "description": "Packaged externals for certificate-serverless",
+  "private": true,
+  "scripts": {},
+  "dependencies": {
+    "chrome-aws-lambda": "^10.1.0",
+    "puppeteer-core": "10.1.0"
+  }
+}
